@@ -36,11 +36,11 @@
 
 ## Tier 4: Metadata And Sync Cleanup
 
-- [ ] `nixpkg-automated-plan-reviser-pro`: confirm canonical upstream source and convert to explicit remote-source packaging if upstream code is still being mirrored locally.
-- [ ] `nixpkg-code-intel-rust`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
-- [ ] `nixpkg-code-intel-ts`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
-- [ ] `nixpkg-repo-map`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
-- [ ] `nixpkg-repo-updater`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
+- [x] `nixpkg-automated-plan-reviser-pro`: confirm canonical upstream source and convert to explicit remote-source packaging if upstream code is still being mirrored locally.
+- [x] `nixpkg-code-intel-rust`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
+- [x] `nixpkg-code-intel-ts`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
+- [x] `nixpkg-repo-map`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
+- [x] `nixpkg-repo-updater`: confirm canonical upstream source and move from metadata-only sync to packaging that fetches from the configured upstream directly.
 
 ## Aligned Reference Patterns
 
